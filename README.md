@@ -35,7 +35,7 @@
 	<img src="https://cdn.motivationgrid.com/wp-content/uploads/2017/11/Harvey-Specter.jpg" >
 </p>
 
-### Boxes to be checked 
+## Boxes to be checked 
 <br>
 
 - [x] **__Come to life__**
