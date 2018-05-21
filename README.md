@@ -1,6 +1,11 @@
 # About Me
-✨ Get an insight into who I am ✨
+
 
 <p align="center">
-  <img width="250"  src="my image.png">
+  ✨ Get an insight into who I am ✨<br>
+  <img width="250"  src="my image.png"><br>
+  * Autodidact :mortar_board:
+  * Sophophilic :book:
+  * Non-conformist :x:
+  * Cynophile :dog:
 </p>
