@@ -8,11 +8,15 @@
   <img width="250"  src="my image.png">
   <br>
   <br> 
-  + Autodidact :mortar_board:<br>
+   Autodidact :mortar_board:<br>
   + Sophophilic :book:<br>
   + Non-conformist :x:<br>
   + Cynophile :dog:<br>
 </p>
-.. - Automatically keep 
+## Characteristics
+* blah
+* blah
+**BLAH**
+__BLAH__
 
 
