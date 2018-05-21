@@ -14,10 +14,11 @@
 </p>
 
 ## Hobbies
-<img width="300"  src="https://www.thefix.com/sites/default/files/styles/article/public/hobbies%20mage1-26%20copy_0.jpg" align="right">
+<img width="200"  src="https://www.thefix.com/sites/default/files/styles/article/public/hobbies%20mage1-26%20copy_0.jpg" align="right">
 
-- **Dance**
-   - **Volley Ball**
+> **Dance**
+
+> **Volley Ball**
 
 
 
