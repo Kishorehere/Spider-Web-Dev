@@ -11,4 +11,9 @@
   *Non-conformist :x:
   *Cynophile :dog:
 </p>
+- Automatically keep markdown files up to date from local or remote code sources
+- Transform markdown content with custom transform functions
+- Render markdown with any template engine
+- Automatically generate a table of contents
+- ... etc
 
