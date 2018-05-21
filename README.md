@@ -7,15 +7,19 @@
   <img width="250"  src="my image.png">
   <br>
   <br> 
+    Autodidact :mortar_board:
+	| Sophophilic :book:
+	| Non-conformist :x:
+	| Cynophile :dog:<br>
+
 </p>
 
 ## About
-<p allign="centre">
- - Autodidact :mortar_board:
- - Sophophilic :book:
- - Non-conformist :x:
- - Cynophile :dog:<br>
-</p>
+
+ Autodidact :mortar_board:
+| Sophophilic :book:
+| Non-conformist :x:
+| Cynophile :dog:<br>
 
 
 
