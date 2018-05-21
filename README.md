@@ -6,13 +6,9 @@
   <br>
   <br>
   <img width="250"  src="my image.png"><br>
-  *Autodidact :mortar_board:<br>
-  *Sophophilic :book:
+  + Autodidact :mortar_board:<br>
+  +Sophophilic :book:
   *Non-conformist :x:
   *Cynophile :dog:
 </p>
 
- *Autodidact :mortar_board:<br>
-  *Sophophilic :book:
-  *Non-conformist :x:
-  *Cynophile :dog:
