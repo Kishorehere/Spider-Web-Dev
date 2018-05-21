@@ -11,3 +11,8 @@
   *Non-conformist :x:
   *Cynophile :dog:
 </p>
+
+ *Autodidact :mortar_board:<br>
+  *Sophophilic :book:
+  *Non-conformist :x:
+  *Cynophile :dog:
