@@ -1,4 +1,3 @@
-//Kishore 106117039
 #include <bits/stdc++.h>
 using namespace std;
  
