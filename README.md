@@ -28,7 +28,7 @@
 <br>
 <br>
 
-### Words to liveby
+## Words to liveby
 
 <br>
 <p align="center">
