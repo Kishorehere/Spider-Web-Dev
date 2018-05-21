@@ -38,11 +38,9 @@
 ### Boxes to be checked 
 <br>
 
-- [x] Come to life
-<br>
-- [ ] Get inducted into Spider
-<br>
-- [ ] Die
+- [x] **__Come to life__**
+- [ ] **__Get inducted into Spider__**
+- [ ] **__Die__**
 
 
 
