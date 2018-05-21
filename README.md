@@ -11,10 +11,10 @@
 
 ## About
 <p allign="centre">
-- Autodidact :mortar_board:
-- Sophophilic :book:
-- Non-conformist :x:
-- Cynophile :dog:<br>
+ - Autodidact :mortar_board:
+ - Sophophilic :book:
+ - Non-conformist :x:
+ - Cynophile :dog:<br>
 </p>
 
 
