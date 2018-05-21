@@ -1,2 +1,5 @@
 # About Me
-<img src="my image.png" width="200"><br>
+
+<p align="center">
+  <img width="250" height="250" src="my image.png">
+</p>
