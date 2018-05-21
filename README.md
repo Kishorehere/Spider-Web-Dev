@@ -37,13 +37,13 @@
 
 ### Boxes to be checked 
 <br>
-<p align="center">
-	- [x] Come to life
-	<br>
-	- [ ] Get inducted into Spider
-	<br>
-	- [ ] Die
-</p>
+
+- [x] Come to life
+<br>
+- [ ] Get inducted into Spider
+<br>
+- [ ] Die
+
 
 
 
