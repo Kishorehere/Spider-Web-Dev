@@ -25,9 +25,10 @@
 > **Marketing**
 
 > **Binge watching** :stuck_out_tongue:
+<br>
 
 ### Words to liveby
-
+<br>
 <img src="https://cdn.motivationgrid.com/wp-content/uploads/2017/11/Harvey-Specter.jpg" align="center">
 
 
