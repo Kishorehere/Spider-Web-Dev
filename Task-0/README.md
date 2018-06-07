@@ -3,7 +3,7 @@
 <p align="center">
   ✨ Get an insight into who I am ✨<br>
   <br>
-  <img width="250"  src="../Task-0/my image.png">
+  <img width="250"  src="../my image.png">
   <br>
   <br> 
     Autodidact :mortar_board:
