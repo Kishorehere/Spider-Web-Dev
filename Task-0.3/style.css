@@ -6,7 +6,7 @@ body{
 	font-family: Bookman;
 	text-align: center; 
 	margin: 0%;
-	background-image: url('background.png');
+	background-image: url('../background.png');
 }
 
 .container{
@@ -19,7 +19,7 @@ body{
 
 #Heading{
 	background-color:black;
-	background-image: url('moon.jpg');
+	background-image: url('../moon.jpg');
 	color:#fff;
 	font-family: Courier;
 	font-weight:bold;
